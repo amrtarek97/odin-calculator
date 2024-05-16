@@ -59,14 +59,14 @@ button:active{
     background-color: rgb(104, 68, 0);
 }
 
-/* .row-four{
+.row-four{
     
     display: flex;
     gap: 4px;
 }
-#equal{
+#no0{
     flex:auto;
-} */
+}
 
 footer {
     position: fixed;
